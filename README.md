@@ -6,3 +6,5 @@
 5) add first file .cy.js
 6) writing the scrip
 7) run script
+
+#TestData exist on examples.js file
