@@ -1,0 +1,8 @@
+{
+  "name": "Tester1",
+  "password": "test12345",
+  "expected":"\n\t\t\tAccounts Overview\n\t\t",
+  "openAccountExpected":"Account Opened!",
+  "LoanText":"Loan Provider:",
+  "transfetText": "Transfer Complete!"
+}
